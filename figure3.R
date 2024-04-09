@@ -10,9 +10,6 @@ load('anno_freq_summary_alv_inf.Robj')
 load('prop_test_alv_inf.Robj')
 load('gsea_alv_inf.Robj')
 
-## functions
-load("stderror.Robj")
-
 #######################################################################################################################
 ## Figure 3: NMF and GSEA links Cd14+ inflammatory AM signature to TLR-NFκB inflammation and CD14+ ‘activated’ MDSCs ##
 #######################################################################################################################

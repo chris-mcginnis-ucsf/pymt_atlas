@@ -12,10 +12,6 @@ load('prop_test_alv.Robj')
 load('crip1_zscores.Robj')
 load('umap_alv.Robj')
 
-## functions
-load("stderror.Robj")
-load("density_plot.Robj")
-
 ############################################################################################################################
 ## Figure 2. AM inflammation and IM wound healing transcriptional signatures are linked to pre-metastatic niche formation ##
 ############################################################################################################################

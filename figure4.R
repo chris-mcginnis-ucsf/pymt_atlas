@@ -16,8 +16,6 @@ load("seu_neu_mature.Robj")
 load('umap_neu_mature.Robj')
 load('mature_neu_zscores.Robj')
 
-## functions
-load("stderror.Robj")
 
 ######################################################################################################
 ## Figure 4: BM-derived myeloid subtype characterization uncovers metastasis-associated DC subtype  ##

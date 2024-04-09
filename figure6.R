@@ -4,25 +4,17 @@
 #######################################################################
 ## objects
 load('seu_nk.Robj')
-load('umap_nk.Robj')
-load('anno_freq_summary_nk.Robj')
-
 load('seu_t.Robj')
 load('seu_b.Robj')
 load('seu_nk_kim2020.Robj')
+load('anno_freq_summary_nk.Robj')
 load('anno_freq_summary_nk_kim.Robj')
 load('anno_freq_summary_t.Robj')
 load('anno_freq_summary_b.Robj')
-load('prop_test_t.Robj')
-load('prop_test_b.Robj')
 load('nk_facs_data_summary.Robj')
 load('nk_facs_counts.Robj')
 load('nk_facs_pval_summary.Robj')
 load('t_cell_zscores.Robj')
-
-## functions
-load("stderror.Robj")
-load("density_plot.Robj")
 
 #########################################################################################################################################
 ## Figure 6: Lymphocyte subtype characterization reveals details of the inflammatory and immunosuppressive metastatic microenvironment ##

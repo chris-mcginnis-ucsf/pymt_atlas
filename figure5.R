@@ -19,10 +19,6 @@ load('seu_fresh_neu.Robj')
 load('seu_4t1_mono.Robj')
 load('seu_4t1_neu.Robj')
 
-## functions
-load("stderror.Robj")
-load("density_plot.Robj")
-
 ##############################################################################################################################################################
 ## Figure 5: TLR-NFκB inflammation signature is present in BM-derived and tissue-resident myeloid cells and correlates with pre-metastatic niche formation  ##
 ##############################################################################################################################################################

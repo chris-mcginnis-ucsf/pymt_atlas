@@ -9,10 +9,6 @@ load('jsd_imm.Robj')
 load('anno_freq_summary_imm.Robj')
 load('prop_test_imm.Robj')
 
-## functions
-load("jsd_comp.Robj")
-load('stderror.Robj')
-
 ######################################################################################################################################
 ## Figure 1: Longitudinal scRNA-seq cell atlas of PyMT mouse lung immune cells captures dynamics of the metastatic microenvironment ##
 ######################################################################################################################################
