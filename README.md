@@ -1,6 +1,6 @@
 Github repo hosting companion code for "The temporal progression of lung immune remodeling during breast cancer metastasis" (McGinnis et al, 2024, Cancer Cell)
 
-![alternativetext](images/graphicalabstract.png)
+![alternativetext](images/pymtatlas_graphicalabstract.png)
 
 Materials include (1) .Robj files for each figure available for download at synapse (www.synapse.org/#!Synapse:syn55388137) and (2) .R files containing custom scripts to reproduce all main text and supplemental figures. 
 
