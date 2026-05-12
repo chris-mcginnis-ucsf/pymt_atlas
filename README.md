@@ -1,4 +1,4 @@
-Github repo hosting companion code for "The temporal progression of lung immune remodeling during breast cancer metastasis" (McGinnis et al, 2024, Cancer Cell)
+Companion code for "The temporal progression of lung immune remodeling during breast cancer metastasis" (McGinnis et al, 2024, Cancer Cell): https://www.cell.com/cancer-cell/fulltext/S1535-6108(24)00167-3
 
 ![alternativetext](images/pymtatlas_graphicalabstract.png) width=200 height=200
 
